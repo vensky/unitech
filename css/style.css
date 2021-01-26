@@ -2,10 +2,15 @@
     max-width: 960px;
 }
 
-.services .btn {
+.services-section .btn {
     display: none;
 }
 
-.services__header {
+.services-section__header {
     max-width: 700px;
+}
+
+.pos-section__fn {
+    display: block;
+    font-size: 10px;
 }
